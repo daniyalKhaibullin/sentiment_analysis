@@ -1,0 +1,8 @@
+{
+    "text": "This is a sample article! It includes various, punctuation and UPPERCASE letters. And some noise... <script>alert('noise');</script>",
+    "metadata": {
+        "title": "Sample Article",
+        "author": "Author Name",
+        "date": "2023-01-01"
+    }
+}
